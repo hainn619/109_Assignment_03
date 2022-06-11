@@ -1,0 +1,23 @@
+.product h3{
+    color: Black;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+.product{
+    max-width: 250px;
+    border: 1px solid grey;
+display: inline-block;
+border-radius: 5px;
+padding:5px;
+margin: 5px;
+box-shadow: 5px 5px 5px grey;
+}
+.product label{
+    display: block;
+}
+.product span{
+    color: green;
+}
+.product img{
+    max-width: 200px;
+}

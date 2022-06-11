@@ -1,0 +1,29 @@
+.admin-page {
+ display: block;
+}
+.admin-page  h4{
+    text-align: center;
+}
+.admin-page  h5{
+    text-align: center;
+}
+.admin-page  .content{
+    display: flex;
+    min-height: 90vh;
+}
+.admin-page .products{
+    flex: 3;
+}
+.admin-page .coupon{
+    flex: 2;
+}
+.admin-page .field{
+    margin: 5px 0;
+}
+.admin-page .field input{
+    width: 60%;
+    display: inline-block !important;
+}
+.admin-page .field label{
+    width: 35%;
+}

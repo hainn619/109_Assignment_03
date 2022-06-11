@@ -1,0 +1,20 @@
+
+.cart-page{
+    background-color: #f0f2f1;
+}
+.cart-page h6{
+    color:gray;
+    text-align: center;
+}
+.cart-page h3{
+    text-align: center;
+}
+.cart-page .parent{
+    display: flex;
+}
+.cart-page .products{
+    flex:2
+}
+.cart-page .total-panel{
+    flex:1
+}
